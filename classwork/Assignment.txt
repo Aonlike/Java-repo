@@ -1,0 +1,47 @@
+Assignment Attempt
+
+ 2.7 Fill in the blanks in each of the following statements:
+ a)-Comments--- are used to document a program and improve its readability.
+ b) A decision can be made in a Java program with a(n)--if statement----------- .
+ c) The arithmetic operators with the same precedence as multiplication are--division-- and -remainder-------
+ .
+ d) When parentheses in an arithmetic expression are nested, the -innermost------  set of parenthe
+ses is evaluated first.
+ e) A location in the computer’s memory that may contain different values at various times
+ throughout the execution of a program is called a(n)--Variable-------- .
+
+2.8 a) System.out.println("Enter an integer: ");
+    b) int a = b * c;
+    c) // Perform a payroll calculation
+
+2.9 a) False(Reason is that the highest value of precedence in the operation is multiplication);
+    b) False(Reason: Variables dont start with underscores.
+    c) False(Reason: Division has the highest precedence)
+    d) False(Reason: All of the above cannot be variable names,variables do not start with numbers);
+
+2.10 a) x = 10; b) Value of 5, 1, 5; c) x is 5 and y is 1;
+     d) 6 != 5;
+
+2.11 Which of the following Java statements contain variables whose values are not modified? 
+     b) System.out.println("m = m + 1"); 
+
+2.12  a) y = a * x * x + 5 * x + 2;
+      b) y = a * x * x + (5 * x) + 2;
+      d)y = a * (x * x) + 5 * x + 2;
+      f) y = a * (x * x + 5 * x + 2);
+
+ 2.13 What is the output that will be printed after execution of the following Java code snippet?
+ Explain why.
+ int p = 5;
+ System.out.printf("%d", p + 2 * 4);This output is 13;
+ System.out.printf("%d", p * 2 + 4);This output is 15 
+
+2.14 a) System.out.println();
+     b) System.out.print();
+     c) System.out.printf();
+
+
+      
+ 
+ 
+
